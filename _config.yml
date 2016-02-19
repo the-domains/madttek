@@ -1,0 +1,28 @@
+name: madttek
+favicon: null
+layout_spectrum: 0.815159029327333
+typography_spectrum: 0.4415841135196388
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1107628105673939
+  lightness: 0.8266501754987985
+  saturation: 0.3130824116524309
+  rhythmicContrast: 0.13829605537466705
+purpose: []

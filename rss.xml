@@ -2,17 +2,16 @@
     <channel>
         <title><![CDATA[madt teknology]]></title>
         <description><![CDATA[madt teknology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/madttek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 17:03:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 23:13:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/madttek/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>IT Consulting
-</p>]]></description>
-            <link>undefined76b8714c-6ffd-4b5d-ae62-4f18087b25f1/index.html</link>
+            <title><![CDATA[Media Production]]></title>
+            <description><![CDATA[<article><h1>Media Production</h1><p>IT Consulting</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8732559dc442564b91fadbdcc77d30241e77750.png"></article>]]></description>
+            <link>https://thegrid.ai/madttek/76b8714c-6ffd-4b5d-ae62-4f18087b25f1/index.html</link>
             <guid isPermaLink="false">76b8714c-6ffd-4b5d-ae62-4f18087b25f1</guid>
-            <pubDate>Tue, 08 Mar 2016 17:03:29 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 23:12:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

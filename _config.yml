@@ -22,8 +22,8 @@ color:
     - '#cfcaaf'
     - '#a17442'
     - '#546253'
-  brandStrength: 0.1107628105673939
-  lightness: 0.8266501754987985
-  saturation: 0.3130824116524309
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.5
   rhythmicContrast: 0.13829605537466705
 purpose: []
